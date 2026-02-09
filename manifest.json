@@ -1,5 +1,5 @@
 {
-  "name": "TimeScheduler",
+  "name": "Time & Scheduler",
   "author": "appipinopi",
   "version": "1.1.0",
   "description": "Botに定期実行や予約投稿、遅延処理などの時間制御機能を追加します。",

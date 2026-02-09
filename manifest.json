@@ -6,6 +6,6 @@
   "affectsStyle": false,
   "affectsBlocks": true,
   "isCustom": true,
-  "repo": "https://github.com/appipinopi/scheduler-plugin",
+  "repo": "https://github.com/appipinopi/TimeScheduler",
   "uuid": "appipinopi-scheduler-001"
 }
